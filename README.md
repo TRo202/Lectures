@@ -3,11 +3,11 @@ Useful lectures
 Here are some useful lectures to share.
 
 Underactuated Robotics
-MIT 6.832
+MIT 6.832 \n
 https://www.youtube.com/watch?v=PRaSlUA78gQ&list=PLkx8KyIQkMfXyKku6DstXjD9xU93ptDyc&index=2
 
-Drake
-SUSTech
+Drake \n
+SUSTech \n
 https://www.youtube.com/watch?v=_HpUZU6Zlqw 
 
 ROS
