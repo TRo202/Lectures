@@ -2,12 +2,12 @@
 Useful lectures
 Here are some useful lectures to share.
 
-Underactuated Robotics
-MIT 6.832 \n
+Underactuated Robotics  
+MIT 6.832 
 https://www.youtube.com/watch?v=PRaSlUA78gQ&list=PLkx8KyIQkMfXyKku6DstXjD9xU93ptDyc&index=2
 
-Drake \n
-SUSTech \n
+Drake 
+SUSTech 
 https://www.youtube.com/watch?v=_HpUZU6Zlqw 
 
 ROS
