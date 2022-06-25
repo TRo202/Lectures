@@ -13,8 +13,9 @@ Drake (SUSTech) <br>
 https://www.youtube.com/watch?v=_HpUZU6Zlqw 
 
 ROS (ETH Zürich) <br>
-https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP <br>
-ROBOTIS OpenSourceTeam (Korean) <br>
+https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP 
+
+ROBOTIS OpenSourceTeam (Korean) 
 https://www.youtube.com/watch?v=ot_D9N-H4lQ&list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw&index=2
 
 ## Machine Learning
