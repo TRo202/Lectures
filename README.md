@@ -4,7 +4,8 @@ Here are some useful lectures to share.
 
 ## Robotics
 
-Underactuated Robotics (MIT 6.832) [Youtube] (https://www.youtube.com/watch?v=PRaSlUA78gQ&list=PLkx8KyIQkMfXyKku6DstXjD9xU93ptDyc&index=2)
+Underactuated Robotics (MIT 6.832) 
+[Youtube] (https://www.youtube.com/watch?v=PRaSlUA78gQ&list=PLkx8KyIQkMfXyKku6DstXjD9xU93ptDyc&index=2)
 
 ## Programs
 
